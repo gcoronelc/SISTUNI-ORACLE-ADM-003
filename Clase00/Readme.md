@@ -1,11 +1,11 @@
 
 # CLONAR REPOSITORIO
 
-** Sintaxis **
+**Sintaxis**
 
 git clone <ruta del repositorio>
 
-** Ejemplo **
+**Ejemplo**
 
 Primero se deben ubicar en la carpeta **I:\EGCC**.
 
@@ -20,7 +20,7 @@ git clone https://github.com/gcoronelc/SISTUNI-ORACLE-ADM-003.git
 
 git pull
 
-** Ejemplo **
+**Ejemplo**
 
 Primero se deben ubicar en la carpeta del reposiotiro 
 **I:\EGCC\SISTUNI-ORACLE-ADM-003**.
