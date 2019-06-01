@@ -4,3 +4,5 @@ CLASE 00
 ----------------------------------------------
 1.- Instalación de Git
 2.- Trabajar con repositorios GitHub
+3.- Carpeta de Trabajo al participante: I:\EGCC\ORACLE-ADM
+
