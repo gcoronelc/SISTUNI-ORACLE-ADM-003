@@ -12,6 +12,9 @@ CLASE 01
 1.- Verificación de Git for Windows
 2.- Clonar el repositorio 
 3.- Instalación de ORACLE
+4.- Lección 01: Arquitectura de ORACLE
+5.- Laboratorio 01
+6.- 
 
 
 
