@@ -1,8 +1,20 @@
-ORACLE - ADMINISTRACION
+﻿ORACLE - ADMINISTRACION
 
 CLASE 00
 ----------------------------------------------
 1.- Instalación de Git
 2.- Trabajar con repositorios GitHub
 3.- Carpeta de Trabajo al participante: I:\EGCC\ORACLE-ADM
+4.- Carpeta del profesor: I:\EGCC\SISTUNI-ORACLE-ADM-003
+
+CLASE 01
+----------------------------------------------
+1.- Verificación de Git for Windows
+2.- Clonar el repositorio 
+3.- Instalación de ORACLE
+
+
+
+
+
 
