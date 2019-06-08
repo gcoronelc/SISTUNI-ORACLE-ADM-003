@@ -14,7 +14,10 @@ CLASE 01
 3.- Instalación de ORACLE
 4.- Lección 01: Arquitectura de ORACLE
 5.- Laboratorio 01
-6.- 
+6.- Estructuras de Almacenamiento
+7.- Laboratorio 02
+8.- Diccionario de Datos
+9.- Laboratorio 03
 
 
 
