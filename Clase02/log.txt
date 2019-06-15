@@ -1,0 +1,1 @@
+I:\app\OracleHomeUser1\diag\rdbms\orcl\orcl\trace
