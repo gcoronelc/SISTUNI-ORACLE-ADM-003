@@ -20,6 +20,19 @@ CLASE 01
 9.- Laboratorio 03
 
 
+CLASE 02
+----------------------------------------------
+1.- Usuarios Administradores
+2.- Laboratorio 04
+4.- Inicio y parada de la base de datos
+5.- Laboratorio 05
+6.- Acceso a la Base de Datos 
+7.- LAboratorio 06
+8.- Administración de la Instancia
+
+
+
+
 
 
 
