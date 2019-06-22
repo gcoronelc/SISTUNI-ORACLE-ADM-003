@@ -27,8 +27,16 @@ CLASE 02
 4.- Inicio y parada de la base de datos
 5.- Laboratorio 05
 6.- Acceso a la Base de Datos 
-7.- LAboratorio 06
+7.- Laboratorio 06
 8.- Administración de la Instancia
+
+CLASE 03
+----------------------------------------------
+1.- Lección 08: Control File
+2.- Lección 09: Redo Log
+3.- Lección 10: TableSpaces
+4.- Lección 11: Usuarios 
+5.- 
 
 
 

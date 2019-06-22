@@ -1,0 +1,22 @@
+PROYECTO
+=========================
+
+Presentar una caso
+
+- Explicar el caso 
+- Modelar el caso (6 tablas minimo)
+- Definir esquemas
+- Generar el script para crear el esquema y sus objetos
+- Definir los TablesSpaces que se utilizaran 
+- Generar el script para crear los tablespaces
+- Definir por lo menos 3 roles de usuarios que tendran acceso al esquema
+- Generar el script para crear los roles
+- Crear dos usuarios para cada rol
+- Definir la auditoria al sistema
+- Implementar la auditoria
+
+  
+  
+
+
+
