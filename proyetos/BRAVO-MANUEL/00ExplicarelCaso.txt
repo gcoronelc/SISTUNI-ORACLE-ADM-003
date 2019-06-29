@@ -1,0 +1,13 @@
+--- Explicar el caso ---
+1.	SIXTCL
+    Es un Middleware que se sitúa entre un sistema operativo y las aplicaciones que se ejecutan en él. 
+	Básicamente, funciona como una capa de traducción oculta para permitir la comunicación y la administración de datos en aplicaciones distribuidas. 
+	Permite la comunicacion entre distintas Plataformas (Maninframe, AS/400, Linux, Solaris etc..)
+	porque conecta dos aplicaciones para que se puedan pasar fácilmente datos y bases de datos 	por una “canalización”.
+	El uso del SIXTCL middleware permite a los usuarios hacer solicitudes como el envío de formularios en un explorador web 
+	o permitir que un servidor web 	devuelva páginas web dinámicas en función del perfil de un usuario o tambien usando el protocolo TCP/IP 
+    Para lo cual se ha construido un SIX Administrativo y un SIX Core
+	El SIX administrativo configura los drivers, colas de mensajes, timers de Notificacion, Procesos Sincronos-Asincronos, usuarios 
+    El SIX Core se encarga de usar la configuracion realizada para realizar los procesos sincronos o asincronas entre distintas aplicaciones de
+	distintas plataformas
+	

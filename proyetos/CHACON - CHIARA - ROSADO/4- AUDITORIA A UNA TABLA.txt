@@ -1,0 +1,41 @@
+
+--------AUDITORIA A LA TABLA PRINCIPAL  MOD.TBL_REGISTRO
+-- Asignando permisos al rol AUDITORIA_DB
+
+CREATE ROLE AUDITORIA_DB;
+
+GRANT CONNECT, RESOURCE TO AUDITORIA_DB;
+
+
+----CREAMOS AL USUARIO AUDITOR
+CREATE USER AUD IDENTIFIED BY AUD2019
+DEFAULT TABLESPACE TBS_MOD;
+
+
+------DAMOS PRIVILIGIOS DE SELECCION USUARIO AUDITOR 
+grant select on MOD.TBL_REGISTRO  to AUD;
+
+--grant select on MOD.tbl_combinacion  to AUD;
+--grant select on MOD.tbl_tipo_cont to AUD;
+--grant select on MOD.tbl_tipo_estado  to AUD;
+--grant select on MOD.det_pcm_reg_msj to AUD;
+--grant select on MOD.tbl_pcm_registro to AUD;
+
+--revoke select on MOD.tbl_combinacion  from AUD;
+--revoke select on MOD.tbl_tipo_cont from AUD;
+--revoke select on MOD.tbl_tipo_estado  from AUD;
+--revoke select on MOD.det_pcm_reg_msj from AUD;
+--revoke select on MOD.tbl_pcm_registro from AUD;
+--revoke select on MOD.TBL_REGISTRO  from AUD;
+
+
+GRANT UNLIMITED TABLESPACE TO AUD;
+
+
+-- Asignar el rol AUDITORIA al usuario AUD
+GRANT AUDITORIA_DB TO AUD; 
+
+
+select * from dba_tab_privs where  owner like  '%MOD%' ;
+
+
