@@ -21,6 +21,23 @@
 - Cursos Virtuales: http://gcoronelc.blogspot.com/p/cursos-virtuales.html
 - Correo: gcoronelc@gmail.com
 
+# CURSOS VIRTUALES
+
+## JAVA ORIENTADO A OBJETOS
+
+- Avance del curso: https://gcoronelc.blogspot.com/2019/05/udemy-java-orientado-objetos.html
+
+[![JAVA ORIENTADO A OBJETOS](http://img.youtube.com/vi/EKlwF12-l9Y/0.jpg)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
+
+
+## PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
+
+- Avance del curso: http://gcoronelc.blogspot.com/2019/06/udemy-java-jdbc-oracle.html
+
+[![JAVA JDBC CON BASE DE DATOS ORACLE](http://img.youtube.com/vi/MR53Xgeg28Y/0.jpg)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
+
+
+
 # LIBROS
 
 - Oracle 10g Adm.: http://gcoronelc.blogspot.pe/2018/03/oracle-database-1og-adm1.html
