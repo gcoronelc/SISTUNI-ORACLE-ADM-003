@@ -1,0 +1,59 @@
+CREATE ROLE Admin_1;
+
+
+GRANT select,insert,update,delete ON Tasistencia_control TO Admin_1;
+GRANT select,insert,update,delete ON Tasistencia_Menor TO Admin_1;
+GRANT select,insert,update,delete ON TLOCAL TO Admin_1;
+GRANT select,insert,update,delete ON TSALA TO Admin_1;
+GRANT select,insert,update,delete ON TCOMITE TO Admin_1;
+GRANT select,insert,update,delete ON TCENTRO_POBLADO TO Admin_1;
+
+GRANT Admin_1 TO mpena;
+
+CREATE ROLE Admin_1;
+
+
+GRANT select,insert,update,delete ON Tasistencia_control TO Admin_1;
+GRANT select,insert,update,delete ON Tasistencia_Menor TO Admin_1;
+GRANT select,insert,update,delete ON TLOCAL TO Admin_1;
+GRANT select,insert,update,delete ON TSALA TO Admin_1;
+GRANT select,insert,update,delete ON TCOMITE TO Admin_1;
+GRANT select,insert,update,delete ON TCENTRO_POBLADO TO Admin_1;
+
+GRANT Admin_1 TO mpena;
+
+CREATE ROLE Admin_2;
+
+GRANT select,insert,update,delete ON Tasistencia_control TO Admin_2;
+GRANT select,insert,update,delete ON Tasistencia_Menor TO Admin_2;
+GRANT select,insert,update,delete ON TLOCAL TO Admin_2;
+GRANT select,insert,update,delete ON TSALA TO Admin_2;
+GRANT select,insert,update,delete ON TCOMITE TO Admin_2;
+GRANT select,insert,update,delete ON TCENTRO_POBLADO TO Admin_2;
+
+GRANT Admin_2 TO jquiquia;
+
+
+CREATE ROLE Admin_3;
+
+GRANT select,insert,update,delete ON Tasistencia_control TO Admin_3;
+GRANT select,insert,update,delete ON Tasistencia_Menor TO Admin_3;
+GRANT select,insert,update,delete ON TLOCAL TO Admin_3;
+GRANT select,insert,update,delete ON TSALA TO Admin_3;
+GRANT select,insert,update,delete ON TCOMITE TO Admin_3;
+GRANT select,insert,update,delete ON TCENTRO_POBLADO TO Admin_3;
+
+GRANT Admin_3 TO admin;
+
+CREATE ROLE consulta;
+
+GRANT select ON Tasistencia_control TO consulta;
+GRANT select ON Tasistencia_Menor TO consulta;
+GRANT select ON TLOCAL TO consulta;
+GRANT select ON TSALA TO consulta;
+GRANT select ON TCOMITE TO consulta;
+GRANT select ON TCENTRO_POBLADO TO consulta;
+
+GRANT consulta TO admin;
+
+

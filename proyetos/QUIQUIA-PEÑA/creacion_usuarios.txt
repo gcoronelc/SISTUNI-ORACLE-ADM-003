@@ -1,0 +1,22 @@
+DROP USER usuario mpena 
+DROP USER usuario jquiquia 
+DROP USER usuario admin 
+DROP USER usuario consulta 
+
+CREATE USER mpena IDENTIFIED BY prueba1
+DEFAULT TABLESPACE tbls_mpena
+ACCOUNT UNLOCK;
+
+
+CREATE USER jquiquia IDENTIFIED BY prueba2
+DEFAULT TABLESPACE tbls_jquiquia
+ACCOUNT UNLOCK;
+
+
+CREATE USER admin IDENTIFIED BY prueba3
+DEFAULT TABLESPACE tbls_admin
+ACCOUNT UNLOCK;
+
+CREATE USER consulta IDENTIFIED BY prueba4
+DEFAULT TABLESPACE tbls_consulta
+ACCOUNT UNLOCK;

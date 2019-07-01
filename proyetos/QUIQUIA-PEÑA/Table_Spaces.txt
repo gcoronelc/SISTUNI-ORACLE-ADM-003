@@ -1,0 +1,21 @@
+CREATE TABLESPACE tbls_mpena
+DATAFILE 'I:\app\OracleHome\oradata\orcl\tbls_mpena.DBF' 
+SIZE 50M;
+
+CREATE TABLESPACE tbls_jquiquia
+DATAFILE 'I:\app\OracleHome\oradata\orcl\tbls_jquiquia.DBF' 
+SIZE 50M;
+
+
+CREATE TABLESPACE tbls_admin
+DATAFILE 'I:\app\OracleHome\oradata\orcl\tbls_admin.DBF' 
+SIZE 50M;
+
+
+CREATE TABLESPACE tbls_consulta
+DATAFILE 'I:\app\OracleHome\oradata\orcl\tbls_consulta.DBF' 
+SIZE 50M;
+
+
+
+
